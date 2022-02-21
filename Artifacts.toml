@@ -1,0 +1,103 @@
+[[pigpiod_if2]]
+arch = "aarch64"
+git-tree-sha1 = "caecd4d556e959c0ac7d1ccdd5b753b1654141e2"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "5ca17dafe8faa0c77756021c0dbd1de27d4f9c085466c0af7972575f75465346"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "aarch64"
+git-tree-sha1 = "9bd9f7a262a795139489c02bc1e5d7f0ed58ce37"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "53e40e60506cda6f7d4fdbe8bffbe720edae7c8c7ca7b8b9e85622a14eb49949"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.aarch64-linux-musl.tar.gz"
+[[pigpiod_if2]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d1a222f0e0eb3b7ab58ef65cefa1902c04e41ac2"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "eda93ff685e688e8cf0721124819752eee4288c74696876fbcb2f5e5bbff7b9d"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9eb1b378b52f4a5d53c04e060e511b84e9271067"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "93361d94f2f49fc4473d9ca124f23543f7fa8409039d04e00dbdf12b39fec427"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "041fc855a8be9320ccaef2818be9ebd41a1bdee2"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "36ab37872bdadb1d4e6997cce0bd5c40df20b0ebc4585f8724ce9b2d43f5bfe3"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "87e37ccb0535bb505e5f46efb5415593a372f4d1"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "750e971db3b5838085d1f13cbc77888c162d3d2d4ac1e4f295f2451aed6f1910"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "i686"
+git-tree-sha1 = "f7816a23c82ac5f5bcd6ff3852ea7b521680c4bb"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "cac3a3fd792cdd63581905776c9e3348253664ae0872f708e25d6551784c0f55"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.i686-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "i686"
+git-tree-sha1 = "2f04ef68b00a2bc89bfe1a900680770f263c3624"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "0799315bab07e5b65deac2eb49219728eb1dd817ed12ae41780a1a411b2e0c88"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.i686-linux-musl.tar.gz"
+[[pigpiod_if2]]
+arch = "powerpc64le"
+git-tree-sha1 = "d25f7f8c6bdaf82da479213054f569f6f69c0ead"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "fcea67563ec2e27f738faab2325eefa02a9202bc641b0011d8be1ae955cd8ee8"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "x86_64"
+git-tree-sha1 = "a5fbf4d34286631530d4cc5289f16941969e1e49"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "7008ebd17dd9c83a282276a8fe3281b6695f20e43522bcf6630a8368d4b8fbf9"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "x86_64"
+git-tree-sha1 = "fb000b502a39e4cbbb67bbe4dfa1fed01bdf9308"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "c8d8e9264454b2c10d6990a12183d465f97a078aea7a480d204498a06daf61e2"
+    url = "https://github.com/smith-isaac/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v0.0.1+0/pigpiod_if2.v0.0.1.x86_64-linux-musl.tar.gz"
